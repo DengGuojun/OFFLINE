@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_servers>
+	<component_server>
+		<app_id>Admin</app_id>
+		<servers>
+			<server>172.16.3.9:10000</server>
+		</servers>
+	</component_server>
+	<component_server>
+		<app_id>System</app_id>
+		<servers>
+			<server>172.16.3.9:10001</server>
+		</servers>
+	</component_server>
+	<component_server>
+		<app_id>PDM</app_id>
+		<servers>
+			<server>172.16.3.9:10006</server>
+		</servers>
+	</component_server>
+	<component_server>
+		<app_id>TMS</app_id>
+		<servers>
+			<server>172.16.3.9:10003</server>
+		</servers>
+	</component_server>
+</component_servers>
